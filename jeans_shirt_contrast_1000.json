@@ -1,0 +1,9002 @@
+[
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "salmon",
+      "oversized tee",
+      "white"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "navy blue",
+      "polo",
+      "peach"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "plaid",
+      "tube top"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "mustard",
+      "teal",
+      "striped"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "tube top",
+      "cobalt blue",
+      "teal"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "mint green",
+      "wine",
+      "beige"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "mint green",
+      "rust",
+      "tube top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "light blue",
+      "maroon",
+      "olive green"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "neon green",
+      "salmon",
+      "kurta"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "denim",
+      "rust",
+      "light pink"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "yellow",
+      "teal",
+      "red"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "olive green",
+      "floral",
+      "navy blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "chambray",
+      "floral",
+      "kurta"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "powder blue",
+      "orange",
+      "dark green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "cream",
+      "rust",
+      "teal"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "light blue",
+      "crop top",
+      "peach"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "charcoal",
+      "oversized tee"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "powder blue",
+      "green",
+      "orange"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "teal",
+      "dark green",
+      "pastel yellow"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "red",
+      "pink",
+      "navy blue"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "dark green",
+      "grey",
+      "cream"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "striped",
+      "oversized tee",
+      "kurta"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "neon green",
+      "blazer",
+      "sky blue"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "orange",
+      "denim",
+      "white"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "blazer",
+      "red"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "lavender",
+      "yellow",
+      "plaid"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "cream",
+      "cobalt blue",
+      "tube top"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "light blue",
+      "checked",
+      "pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "navy blue",
+      "black"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "rust",
+      "mustard",
+      "dusty pink"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "polo",
+      "powder blue",
+      "cobalt blue"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "beige",
+      "brown",
+      "pink"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "dark green",
+      "black",
+      "hoodie"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "mint green",
+      "salmon",
+      "yellow"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "charcoal",
+      "mint green",
+      "light pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "brown",
+      "neon green",
+      "hoodie"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "beige",
+      "red",
+      "dark green"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "floral",
+      "mustard"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "floral",
+      "neon green",
+      "red"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "beige",
+      "polo",
+      "kurta"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "salmon",
+      "teal",
+      "rust"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "tube top",
+      "yellow",
+      "peach"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "light blue",
+      "neon green",
+      "graphic tee"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "olive green",
+      "white",
+      "floral"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "powder blue",
+      "salmon",
+      "plaid"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "mustard",
+      "pastel yellow",
+      "cobalt blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "blazer",
+      "hoodie",
+      "plaid"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "neon",
+      "dusty pink"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "lavender",
+      "salmon",
+      "dark green"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "pink",
+      "plaid",
+      "dusty pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "mint green",
+      "chambray",
+      "lavender"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "neon",
+      "brown",
+      "hoodie"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "peach",
+      "cobalt blue",
+      "lavender"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "mustard",
+      "checked",
+      "mint green"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "cream",
+      "sky blue",
+      "pastel yellow"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "mint green",
+      "light blue",
+      "dusty pink"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "pink",
+      "hoodie",
+      "striped"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "rust",
+      "maroon",
+      "sky blue"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "blazer",
+      "cream",
+      "dark green"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "neon",
+      "dark green"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "polo",
+      "chambray",
+      "pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "mint green",
+      "hoodie",
+      "black"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "green",
+      "teal",
+      "red"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "checked",
+      "beige",
+      "olive green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "grey",
+      "light pink",
+      "cobalt blue"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "polo",
+      "checked",
+      "pastel yellow"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "white",
+      "plaid",
+      "checked"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "peach",
+      "blazer",
+      "orange"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "dark green",
+      "oversized tee",
+      "checked"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "crop top",
+      "lavender",
+      "neon green"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "peach",
+      "cream",
+      "floral"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "floral",
+      "orange",
+      "light blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "sky blue",
+      "cobalt blue",
+      "rust"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "dark green",
+      "wine",
+      "floral"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "tube top",
+      "light pink",
+      "hoodie"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "denim",
+      "rust",
+      "olive green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "pink",
+      "olive green",
+      "white"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "mint green",
+      "red",
+      "striped"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "denim",
+      "crop top",
+      "plaid"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "chambray",
+      "rust",
+      "maroon"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "hoodie",
+      "light blue",
+      "white"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "brown",
+      "salmon",
+      "peach"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "rust",
+      "powder blue",
+      "crop top"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "neon",
+      "teal",
+      "kurta"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "light blue",
+      "olive green",
+      "black"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "salmon",
+      "yellow",
+      "dusty pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "chambray",
+      "neon",
+      "pastel yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "chambray",
+      "mint green",
+      "red"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "powder blue",
+      "navy blue",
+      "denim"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "rust",
+      "light pink",
+      "checked"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "light blue",
+      "navy blue",
+      "oversized tee"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "hoodie",
+      "light pink",
+      "plaid"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "pink",
+      "cream",
+      "cobalt blue"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "neon",
+      "neon green",
+      "salmon"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "black",
+      "navy blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "tube top",
+      "blazer",
+      "neon green"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "powder blue",
+      "lavender"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "lavender",
+      "white",
+      "chambray"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "peach",
+      "striped",
+      "orange"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "green",
+      "lavender",
+      "charcoal"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "kurta",
+      "sky blue",
+      "wine"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "peach",
+      "beige"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "mustard",
+      "grey",
+      "tube top"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "mustard",
+      "light blue",
+      "chambray"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "denim",
+      "peach",
+      "mustard"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "hoodie",
+      "olive green",
+      "oversized tee"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "floral",
+      "navy blue",
+      "tube top"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "floral",
+      "black",
+      "plaid"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "brown",
+      "salmon",
+      "dusty pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "powder blue",
+      "polo",
+      "light blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "orange",
+      "crop top",
+      "checked"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "pink",
+      "crop top",
+      "light pink"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "checked",
+      "teal",
+      "orange"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "mustard",
+      "yellow",
+      "grey"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "navy blue",
+      "green",
+      "denim"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "green",
+      "dark green",
+      "striped"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "denim",
+      "tube top",
+      "navy blue"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "denim",
+      "mustard",
+      "hoodie"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "kurta",
+      "brown",
+      "mint green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "denim",
+      "neon green",
+      "white"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "white",
+      "tube top",
+      "sky blue"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "beige",
+      "rust",
+      "chambray"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "pink",
+      "teal",
+      "striped"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "navy blue",
+      "blazer",
+      "light blue"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "white",
+      "dark green",
+      "lavender"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "orange",
+      "polo",
+      "mint green"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "salmon",
+      "sky blue",
+      "tube top"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "floral",
+      "orange",
+      "green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "orange",
+      "kurta",
+      "chambray"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "mint green",
+      "orange",
+      "black"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "rust",
+      "maroon",
+      "grey"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "blazer",
+      "olive green",
+      "light pink"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "brown",
+      "chambray"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "black",
+      "mint green",
+      "wine"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "mustard",
+      "dark green",
+      "crop top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "peach",
+      "graphic tee",
+      "orange"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "salmon",
+      "oversized tee",
+      "hoodie"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "mint green",
+      "crop top",
+      "neon"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "cream",
+      "orange",
+      "lavender"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "peach",
+      "chambray"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "checked",
+      "olive green",
+      "dusty pink"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "neon green",
+      "rust",
+      "denim"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "light blue",
+      "denim",
+      "yellow"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "navy blue",
+      "cobalt blue",
+      "orange"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "black",
+      "yellow",
+      "floral"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "dark green",
+      "peach",
+      "neon"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "crop top",
+      "black",
+      "grey"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "dusty pink",
+      "tube top"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "green",
+      "blazer",
+      "pink"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "striped",
+      "rust",
+      "floral"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "orange",
+      "pink",
+      "yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "floral",
+      "light blue",
+      "white"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "floral",
+      "teal",
+      "chambray"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "mustard",
+      "kurta",
+      "navy blue"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "green",
+      "powder blue",
+      "maroon"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "peach",
+      "salmon",
+      "crop top"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "orange",
+      "navy blue",
+      "salmon"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "mint green",
+      "maroon",
+      "teal"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "pink",
+      "dusty pink",
+      "maroon"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "grey",
+      "beige",
+      "olive green"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "plaid",
+      "navy blue",
+      "mint green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "denim",
+      "checked",
+      "floral"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "white",
+      "neon green",
+      "hoodie"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "cream",
+      "tube top",
+      "mint green"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "peach",
+      "wine",
+      "oversized tee"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "red",
+      "dusty pink",
+      "powder blue"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "chambray",
+      "green"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "powder blue",
+      "mustard",
+      "beige"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "mint green",
+      "navy blue",
+      "mustard"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "chambray",
+      "orange",
+      "teal"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "plaid",
+      "teal",
+      "pastel yellow"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "mustard",
+      "floral",
+      "charcoal"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "crop top",
+      "charcoal",
+      "orange"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "polo",
+      "yellow",
+      "lavender"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "striped",
+      "plaid",
+      "maroon"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "denim",
+      "checked",
+      "peach"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "checked",
+      "yellow"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "beige",
+      "neon green",
+      "neon"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "grey",
+      "black"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "beige",
+      "charcoal",
+      "white"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "neon green",
+      "blazer",
+      "grey"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "polo",
+      "sky blue",
+      "green"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "powder blue",
+      "tube top",
+      "maroon"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "striped",
+      "chambray",
+      "mint green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "maroon",
+      "tube top",
+      "black"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "brown",
+      "hoodie"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "neon",
+      "green",
+      "powder blue"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "maroon",
+      "blazer",
+      "chambray"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "teal",
+      "peach",
+      "pastel yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "lavender",
+      "floral"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "cream",
+      "oversized tee",
+      "rust"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "dark green",
+      "green",
+      "blazer"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "charcoal",
+      "grey",
+      "rust"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "kurta",
+      "floral",
+      "neon green"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "mustard",
+      "plaid",
+      "light blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "orange",
+      "beige",
+      "brown"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "dark green",
+      "rust",
+      "polo"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "salmon",
+      "checked",
+      "brown"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "crop top",
+      "graphic tee",
+      "kurta"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "mint green",
+      "polo",
+      "light pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "blazer",
+      "brown",
+      "grey"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "mint green",
+      "blazer",
+      "plaid"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "olive green",
+      "cream",
+      "striped"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "chambray",
+      "checked",
+      "maroon"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "salmon",
+      "checked",
+      "maroon"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "yellow",
+      "light blue",
+      "beige"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "green",
+      "rust"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "grey",
+      "navy blue",
+      "lavender"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "wine",
+      "navy blue",
+      "yellow"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "hoodie",
+      "kurta",
+      "white"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "yellow",
+      "maroon",
+      "charcoal"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "hoodie",
+      "pastel yellow",
+      "orange"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "light pink",
+      "striped",
+      "salmon"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "blazer",
+      "charcoal",
+      "black"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "hoodie",
+      "kurta",
+      "light blue"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "white",
+      "charcoal",
+      "graphic tee"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "navy blue",
+      "mustard",
+      "yellow"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "olive green",
+      "pastel yellow",
+      "beige"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "teal",
+      "polo",
+      "plaid"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "charcoal",
+      "graphic tee",
+      "chambray"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "kurta",
+      "striped",
+      "pink"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "striped",
+      "lavender",
+      "chambray"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "teal",
+      "light blue",
+      "chambray"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "dark green",
+      "dusty pink",
+      "black"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "brown",
+      "plaid",
+      "white"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "pink",
+      "powder blue",
+      "wine"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "olive green",
+      "charcoal",
+      "polo"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "neon green",
+      "peach",
+      "blazer"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "plaid",
+      "beige",
+      "black"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "blazer",
+      "dusty pink",
+      "graphic tee"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "checked",
+      "green",
+      "neon green"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "chambray",
+      "maroon",
+      "mint green"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "salmon",
+      "pastel yellow",
+      "lavender"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "peach",
+      "mint green",
+      "brown"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "graphic tee",
+      "powder blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "light blue",
+      "orange",
+      "oversized tee"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "mustard",
+      "olive green",
+      "striped"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "chambray",
+      "neon green",
+      "sky blue"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "salmon",
+      "tube top",
+      "kurta"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "peach",
+      "brown",
+      "maroon"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "rust",
+      "neon",
+      "red"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "wine",
+      "mint green",
+      "polo"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "orange",
+      "black",
+      "graphic tee"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "red",
+      "oversized tee",
+      "dark green"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "lavender",
+      "cream",
+      "peach"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "dark green",
+      "chambray",
+      "brown"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "beige",
+      "yellow",
+      "red"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "teal",
+      "mint green",
+      "pastel yellow"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "tube top",
+      "salmon",
+      "mustard"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "peach",
+      "orange",
+      "olive green"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "navy blue",
+      "maroon",
+      "tube top"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "neon green",
+      "cream",
+      "red"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "hoodie",
+      "graphic tee",
+      "yellow"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "chambray",
+      "teal",
+      "pastel yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "plaid",
+      "denim",
+      "striped"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "orange",
+      "chambray",
+      "pastel yellow"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "plaid",
+      "oversized tee",
+      "sky blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "tube top",
+      "denim",
+      "checked"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "lavender",
+      "grey",
+      "graphic tee"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "white",
+      "orange",
+      "teal"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "denim",
+      "charcoal",
+      "neon"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "black",
+      "floral",
+      "yellow"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "mustard",
+      "hoodie",
+      "black"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "neon",
+      "grey",
+      "white"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "yellow",
+      "charcoal",
+      "crop top"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "green",
+      "orange",
+      "grey"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "powder blue",
+      "navy blue",
+      "tube top"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "tube top",
+      "denim",
+      "checked"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "peach",
+      "light pink",
+      "plaid"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "plaid",
+      "light pink",
+      "maroon"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "grey",
+      "charcoal",
+      "neon green"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "maroon",
+      "peach",
+      "teal"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "sky blue",
+      "maroon",
+      "neon"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "hoodie",
+      "tube top",
+      "dark green"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "dark green",
+      "white",
+      "beige"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "hoodie",
+      "grey",
+      "maroon"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "chambray",
+      "powder blue",
+      "cobalt blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "tube top",
+      "blazer",
+      "plaid"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "floral",
+      "neon",
+      "chambray"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "green",
+      "floral",
+      "brown"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "salmon",
+      "hoodie",
+      "plaid"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "light blue",
+      "crop top",
+      "dark green"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "rust",
+      "beige",
+      "maroon"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "polo",
+      "green",
+      "striped"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "kurta",
+      "pink",
+      "red"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "tube top",
+      "brown"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "white",
+      "hoodie"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "floral",
+      "crop top",
+      "powder blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "tube top",
+      "plaid",
+      "red"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "charcoal",
+      "maroon",
+      "graphic tee"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "rust",
+      "orange",
+      "maroon"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "striped",
+      "sky blue",
+      "polo"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "brown",
+      "wine",
+      "cobalt blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "rust",
+      "chambray",
+      "powder blue"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "black",
+      "peach",
+      "cream"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "pink",
+      "blazer",
+      "striped"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "brown",
+      "grey",
+      "striped"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "crop top",
+      "white",
+      "navy blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "floral",
+      "maroon",
+      "mustard"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "brown",
+      "striped",
+      "graphic tee"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "brown",
+      "polo",
+      "orange"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "hoodie",
+      "lavender",
+      "denim"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "cream",
+      "powder blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "green",
+      "brown",
+      "pastel yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "beige",
+      "orange",
+      "kurta"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "crop top",
+      "green",
+      "peach"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "neon green",
+      "powder blue",
+      "charcoal"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "rust",
+      "graphic tee",
+      "tube top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "blazer",
+      "navy blue",
+      "sky blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "light pink",
+      "teal"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "denim",
+      "rust"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "sky blue",
+      "black"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "navy blue",
+      "green",
+      "mustard"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "brown",
+      "crop top",
+      "rust"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "navy blue",
+      "salmon",
+      "neon green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "polo",
+      "checked"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "kurta",
+      "polo",
+      "maroon"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "beige",
+      "red",
+      "rust"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "wine",
+      "mint green",
+      "denim"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "red",
+      "charcoal",
+      "rust"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "black",
+      "rust",
+      "light blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "salmon",
+      "floral",
+      "dusty pink"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "orange",
+      "dusty pink",
+      "white"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "salmon",
+      "hoodie",
+      "chambray"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "orange",
+      "charcoal",
+      "powder blue"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "green",
+      "yellow",
+      "teal"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "cream",
+      "striped",
+      "pink"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "tube top",
+      "mustard",
+      "charcoal"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "floral",
+      "neon green",
+      "plaid"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "pink",
+      "wine",
+      "rust"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "maroon",
+      "plaid",
+      "sky blue"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "wine",
+      "chambray",
+      "mustard"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "sky blue",
+      "light blue",
+      "white"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "beige",
+      "wine",
+      "orange"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "light blue",
+      "maroon",
+      "hoodie"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "crop top",
+      "rust",
+      "striped"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "red",
+      "brown",
+      "green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "pink",
+      "black",
+      "striped"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "olive green",
+      "cream",
+      "maroon"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "striped",
+      "cream",
+      "salmon"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "kurta",
+      "light blue",
+      "olive green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "blazer",
+      "navy blue",
+      "peach"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "red",
+      "charcoal",
+      "pastel yellow"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "neon green",
+      "mustard",
+      "wine"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "plaid",
+      "grey",
+      "red"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "striped",
+      "white",
+      "red"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "green",
+      "floral",
+      "olive green"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "salmon",
+      "grey",
+      "mustard"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "hoodie",
+      "plaid",
+      "kurta"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "chambray",
+      "white",
+      "light pink"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "tube top",
+      "orange",
+      "yellow"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "light blue",
+      "plaid",
+      "crop top"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "mint green",
+      "crop top"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "pink",
+      "powder blue",
+      "dusty pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "plaid",
+      "pink",
+      "chambray"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "dark green",
+      "red",
+      "maroon"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "black",
+      "brown",
+      "oversized tee"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "black",
+      "hoodie",
+      "graphic tee"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "peach",
+      "brown"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "white",
+      "mint green",
+      "kurta"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "olive green",
+      "lavender",
+      "kurta"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "floral",
+      "black",
+      "hoodie"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "green",
+      "denim",
+      "dusty pink"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "olive green",
+      "cobalt blue",
+      "lavender"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "mint green",
+      "brown",
+      "peach"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "yellow",
+      "green",
+      "red"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "kurta",
+      "graphic tee",
+      "maroon"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "black",
+      "cobalt blue",
+      "cream"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "checked",
+      "plaid",
+      "pink"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "red",
+      "mint green",
+      "wine"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "neon",
+      "pink",
+      "powder blue"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "maroon",
+      "cobalt blue",
+      "floral"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "light pink",
+      "polo",
+      "mustard"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "rust",
+      "green",
+      "white"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "neon",
+      "mint green",
+      "cobalt blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "rust",
+      "black",
+      "checked"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "olive green",
+      "light blue",
+      "blazer"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "beige",
+      "blazer",
+      "light blue"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "chambray",
+      "beige",
+      "kurta"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "mustard",
+      "salmon",
+      "charcoal"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "checked",
+      "pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "plaid",
+      "grey",
+      "salmon"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "brown",
+      "cobalt blue"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "crop top",
+      "striped",
+      "light blue"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "salmon",
+      "beige"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "mint green",
+      "green",
+      "grey"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "red",
+      "lavender",
+      "navy blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "green",
+      "maroon",
+      "blazer"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "kurta",
+      "polo",
+      "wine"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "rust",
+      "pink",
+      "tube top"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "sky blue",
+      "salmon",
+      "mustard"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "striped",
+      "checked",
+      "peach"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "plaid",
+      "wine",
+      "white"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "rust",
+      "light blue",
+      "crop top"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "navy blue",
+      "kurta",
+      "graphic tee"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "floral",
+      "salmon",
+      "maroon"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "plaid",
+      "olive green",
+      "graphic tee"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "crop top",
+      "polo",
+      "dusty pink"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "navy blue",
+      "rust",
+      "light blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "hoodie",
+      "maroon"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "pink",
+      "mint green",
+      "brown"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "mint green",
+      "maroon",
+      "cream"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "light pink",
+      "graphic tee",
+      "oversized tee"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "powder blue",
+      "hoodie",
+      "rust"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "striped",
+      "grey",
+      "checked"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "green",
+      "lavender",
+      "dark green"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "light blue",
+      "red",
+      "orange"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "striped",
+      "dusty pink",
+      "tube top"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "checked",
+      "wine",
+      "oversized tee"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "hoodie",
+      "plaid"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "powder blue",
+      "wine",
+      "light blue"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "light blue",
+      "pastel yellow",
+      "hoodie"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "teal",
+      "tube top",
+      "polo"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "white",
+      "chambray",
+      "navy blue"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "black",
+      "checked",
+      "brown"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "powder blue",
+      "pastel yellow",
+      "neon"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "dark green",
+      "hoodie",
+      "floral"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "red",
+      "plaid",
+      "olive green"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "light blue",
+      "peach",
+      "white"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "olive green",
+      "cobalt blue",
+      "maroon"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "charcoal",
+      "wine",
+      "green"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "mustard",
+      "cream",
+      "salmon"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "orange",
+      "red",
+      "green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "peach",
+      "light pink",
+      "white"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "neon",
+      "hoodie",
+      "teal"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "teal",
+      "wine",
+      "brown"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "chambray",
+      "striped",
+      "cream"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "white",
+      "crop top",
+      "navy blue"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "powder blue",
+      "rust",
+      "cream"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "chambray",
+      "kurta",
+      "floral"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "navy blue",
+      "white",
+      "rust"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "neon green",
+      "striped",
+      "olive green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "light blue",
+      "chambray",
+      "plaid"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "lavender",
+      "checked",
+      "dusty pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "crop top",
+      "yellow",
+      "light pink"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "dark green",
+      "orange"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "charcoal",
+      "black",
+      "sky blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "red",
+      "wine",
+      "denim"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "mint green",
+      "charcoal",
+      "light blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "neon",
+      "black",
+      "blazer"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "mustard",
+      "red",
+      "light blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "neon green",
+      "red",
+      "black"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "salmon",
+      "crop top",
+      "olive green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "red",
+      "graphic tee",
+      "grey"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "grey",
+      "mustard"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "powder blue",
+      "black",
+      "dusty pink"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "blazer",
+      "lavender"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "hoodie",
+      "white",
+      "wine"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "powder blue",
+      "mint green",
+      "cobalt blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "floral",
+      "cobalt blue",
+      "navy blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "wine",
+      "graphic tee",
+      "plaid"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "checked",
+      "light pink",
+      "pink"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "blazer",
+      "neon green",
+      "brown"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "tube top",
+      "yellow",
+      "dark green"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "light blue",
+      "tube top",
+      "crop top"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "dark green",
+      "cream",
+      "dusty pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "crop top",
+      "maroon",
+      "salmon"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "red",
+      "neon green",
+      "pastel yellow"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "navy blue",
+      "mint green",
+      "wine"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "red",
+      "black",
+      "orange"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "black",
+      "hoodie",
+      "wine"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "striped",
+      "charcoal",
+      "checked"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "white",
+      "hoodie",
+      "dark green"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "wine",
+      "cobalt blue"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "denim",
+      "striped",
+      "checked"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "red",
+      "cream",
+      "navy blue"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "floral",
+      "cobalt blue",
+      "blazer"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "maroon",
+      "mint green",
+      "light blue"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "brown",
+      "neon",
+      "neon green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "tube top",
+      "mint green",
+      "crop top"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "beige",
+      "orange",
+      "peach"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "neon",
+      "pastel yellow",
+      "salmon"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "yellow",
+      "blazer",
+      "cobalt blue"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "denim",
+      "hoodie",
+      "rust"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "blazer",
+      "dark green",
+      "red"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "mint green",
+      "powder blue",
+      "rust"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "kurta",
+      "blazer"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "white",
+      "wine",
+      "striped"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "pink",
+      "grey",
+      "beige"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "maroon",
+      "denim",
+      "light blue"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "light blue",
+      "black",
+      "denim"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "peach",
+      "neon green",
+      "kurta"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "hoodie",
+      "yellow",
+      "brown"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "rust",
+      "teal",
+      "tube top"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "lavender",
+      "yellow"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "chambray",
+      "green",
+      "peach"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "beige",
+      "denim",
+      "light pink"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "tube top",
+      "charcoal",
+      "mint green"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "neon",
+      "blazer"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "plaid",
+      "peach",
+      "navy blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "checked",
+      "olive green",
+      "wine"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "mustard",
+      "light blue",
+      "black"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "neon",
+      "tube top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "neon",
+      "mustard",
+      "kurta"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "mustard",
+      "hoodie",
+      "neon"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "floral",
+      "light blue",
+      "peach"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "chambray",
+      "neon",
+      "teal"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "charcoal",
+      "olive green",
+      "dark green"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "beige",
+      "orange",
+      "chambray"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "charcoal",
+      "blazer",
+      "pink"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "olive green",
+      "mint green",
+      "pastel yellow"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "maroon",
+      "charcoal"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "brown",
+      "oversized tee",
+      "graphic tee"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "dark green",
+      "striped",
+      "checked"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "powder blue",
+      "cobalt blue",
+      "navy blue"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "sky blue",
+      "rust",
+      "graphic tee"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "green",
+      "black",
+      "dusty pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "powder blue",
+      "olive green",
+      "grey"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "yellow",
+      "lavender",
+      "white"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "white",
+      "brown",
+      "grey"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "plaid",
+      "dark green"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "salmon",
+      "mint green",
+      "denim"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "striped",
+      "dark green",
+      "checked"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "green",
+      "black",
+      "brown"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "polo",
+      "grey",
+      "maroon"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "chambray",
+      "white",
+      "oversized tee"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "green",
+      "hoodie",
+      "neon green"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "floral",
+      "lavender",
+      "chambray"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "dark green",
+      "crop top",
+      "polo"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "kurta",
+      "red",
+      "black"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "wine",
+      "red",
+      "neon green"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "pink",
+      "black",
+      "chambray"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "cream",
+      "floral",
+      "rust"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "lavender",
+      "black",
+      "olive green"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "charcoal",
+      "chambray",
+      "maroon"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "tube top",
+      "brown"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "wine",
+      "maroon",
+      "checked"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "brown",
+      "kurta",
+      "crop top"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "dark green",
+      "dusty pink",
+      "pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "sky blue",
+      "powder blue",
+      "plaid"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "cobalt blue",
+      "striped"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "white",
+      "chambray",
+      "dusty pink"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "lavender",
+      "dusty pink",
+      "powder blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "charcoal",
+      "maroon"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "olive green",
+      "dark green",
+      "cream"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "olive green",
+      "lavender",
+      "pink"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "kurta",
+      "yellow",
+      "grey"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "grey",
+      "dark green",
+      "navy blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "neon green",
+      "pink",
+      "black"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "cream",
+      "polo",
+      "tube top"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "blazer",
+      "brown"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "olive green",
+      "light blue",
+      "cream"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "grey",
+      "wine",
+      "yellow"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "salmon",
+      "cobalt blue",
+      "mint green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "charcoal",
+      "dark green",
+      "kurta"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "navy blue",
+      "dusty pink",
+      "kurta"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "powder blue",
+      "wine",
+      "navy blue"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "plaid",
+      "orange",
+      "red"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "neon green",
+      "rust",
+      "lavender"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "graphic tee",
+      "hoodie"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "cream",
+      "white",
+      "wine"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "denim",
+      "beige",
+      "red"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "floral",
+      "graphic tee",
+      "denim"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "yellow",
+      "light blue",
+      "dusty pink"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "checked",
+      "dusty pink",
+      "light blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "dark green",
+      "maroon",
+      "dusty pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "white",
+      "light pink",
+      "blazer"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "navy blue",
+      "pink",
+      "yellow"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "rust",
+      "crop top",
+      "grey"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "charcoal",
+      "checked",
+      "pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "crop top",
+      "light pink",
+      "polo"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "checked",
+      "orange"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "rust",
+      "light pink",
+      "salmon"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "dark green",
+      "neon",
+      "graphic tee"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "plaid",
+      "mustard",
+      "powder blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "rust",
+      "sky blue",
+      "teal"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "grey",
+      "graphic tee",
+      "cream"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "cobalt blue",
+      "light blue"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "mustard",
+      "denim",
+      "grey"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "blazer",
+      "green",
+      "denim"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "plaid",
+      "neon green",
+      "hoodie"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "yellow",
+      "denim",
+      "kurta"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "yellow",
+      "neon",
+      "orange"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "white",
+      "teal",
+      "grey"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "kurta",
+      "rust",
+      "cobalt blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "hoodie",
+      "kurta",
+      "powder blue"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "crop top",
+      "orange",
+      "floral"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "cream",
+      "neon"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "cream",
+      "salmon",
+      "dark green"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "dark green",
+      "orange",
+      "mustard"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "chambray",
+      "beige",
+      "sky blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "polo",
+      "blazer"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "striped",
+      "grey",
+      "chambray"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "grey",
+      "red"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "striped",
+      "kurta",
+      "denim"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "denim",
+      "dusty pink",
+      "cream"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "grey",
+      "polo",
+      "beige"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "striped",
+      "charcoal",
+      "mustard"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "mustard",
+      "cobalt blue",
+      "chambray"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "plaid",
+      "light blue",
+      "polo"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "white",
+      "brown",
+      "powder blue"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "kurta",
+      "pink",
+      "cream"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "tube top",
+      "mustard"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "teal",
+      "white",
+      "neon green"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "blazer",
+      "oversized tee",
+      "cobalt blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "striped",
+      "polo",
+      "neon green"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "dark green",
+      "green",
+      "floral"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "charcoal",
+      "cream",
+      "floral"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "beige",
+      "wine",
+      "neon"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "floral",
+      "light blue",
+      "neon"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "denim",
+      "tube top",
+      "black"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "salmon",
+      "cobalt blue",
+      "light blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "crop top",
+      "black",
+      "light blue"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "navy blue",
+      "wine",
+      "oversized tee"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "navy blue",
+      "dusty pink",
+      "polo"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "tube top",
+      "crop top",
+      "hoodie"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "denim",
+      "graphic tee",
+      "red"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "striped",
+      "blazer",
+      "tube top"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "checked",
+      "beige"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "yellow",
+      "peach",
+      "beige"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "hoodie",
+      "cobalt blue",
+      "neon green"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "charcoal",
+      "red",
+      "cream"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "denim",
+      "navy blue",
+      "mint green"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "striped",
+      "green",
+      "sky blue"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "powder blue",
+      "neon green",
+      "pink"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "dark green",
+      "wine",
+      "mint green"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "striped",
+      "light pink",
+      "black"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "kurta",
+      "dark green",
+      "sky blue"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "crop top",
+      "grey",
+      "brown"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "orange",
+      "neon green",
+      "white"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "wine",
+      "checked",
+      "oversized tee"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "maroon",
+      "checked"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "plaid",
+      "mustard",
+      "powder blue"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "denim",
+      "striped",
+      "kurta"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "charcoal",
+      "mint green",
+      "crop top"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "lavender",
+      "olive green",
+      "black"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "lavender",
+      "pink",
+      "yellow"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "plaid",
+      "graphic tee",
+      "beige"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "mint green",
+      "olive green",
+      "crop top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "dark green",
+      "navy blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "kurta",
+      "plaid",
+      "mustard"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "brown",
+      "salmon",
+      "cream"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "kurta",
+      "grey",
+      "maroon"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "beige",
+      "blazer",
+      "yellow"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "light pink",
+      "tube top",
+      "teal"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "kurta",
+      "graphic tee",
+      "polo"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "charcoal",
+      "light blue",
+      "peach"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "pink",
+      "light blue",
+      "brown"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "mustard",
+      "orange",
+      "neon green"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "grey",
+      "cream",
+      "maroon"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "mint green",
+      "floral",
+      "orange"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "green",
+      "denim",
+      "floral"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "neon green",
+      "peach",
+      "grey"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "mustard",
+      "pink",
+      "charcoal"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "teal",
+      "salmon",
+      "blazer"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "black",
+      "yellow",
+      "mustard"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "mustard",
+      "neon",
+      "pink"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "brown",
+      "olive green",
+      "red"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "black",
+      "checked",
+      "peach"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "light pink",
+      "maroon",
+      "mustard"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "mint green",
+      "wine",
+      "peach"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "crop top",
+      "neon green",
+      "green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "neon green",
+      "wine",
+      "crop top"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "light pink",
+      "sky blue",
+      "kurta"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "blazer",
+      "white",
+      "dark green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "polo",
+      "dusty pink",
+      "brown"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "yellow",
+      "denim"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "polo",
+      "beige",
+      "neon green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "rust",
+      "salmon",
+      "charcoal"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "mustard",
+      "dusty pink"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "light pink",
+      "orange",
+      "wine"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "teal",
+      "beige",
+      "polo"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "brown",
+      "beige",
+      "mustard"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "orange",
+      "striped",
+      "teal"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "blazer",
+      "light pink",
+      "peach"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "orange",
+      "neon",
+      "floral"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "denim",
+      "yellow",
+      "rust"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "charcoal",
+      "striped",
+      "dark green"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "checked",
+      "sky blue",
+      "rust"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "neon",
+      "oversized tee",
+      "salmon"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "checked",
+      "olive green",
+      "chambray"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "green",
+      "floral",
+      "grey"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "maroon",
+      "peach",
+      "pink"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "charcoal",
+      "checked",
+      "mint green"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "hoodie",
+      "white",
+      "floral"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "salmon",
+      "light pink",
+      "yellow"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "black",
+      "denim",
+      "beige"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "rust",
+      "salmon",
+      "peach"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "peach",
+      "denim",
+      "navy blue"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "checked",
+      "orange",
+      "crop top"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "chambray",
+      "maroon",
+      "yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "striped",
+      "powder blue",
+      "dusty pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "sky blue",
+      "checked",
+      "lavender"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "red",
+      "pastel yellow",
+      "mustard"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "grey",
+      "light blue"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "tube top",
+      "denim"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "chambray",
+      "pink",
+      "cobalt blue"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "yellow",
+      "red",
+      "lavender"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "kurta",
+      "cream",
+      "graphic tee"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "crop top",
+      "orange",
+      "yellow"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "mint green",
+      "oversized tee",
+      "lavender"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "charcoal",
+      "pink",
+      "red"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "grey",
+      "green",
+      "rust"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "mustard",
+      "green",
+      "black"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "peach",
+      "striped",
+      "brown"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "striped",
+      "wine",
+      "white"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "polo",
+      "brown",
+      "chambray"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "powder blue",
+      "plaid",
+      "light blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "wine",
+      "dark green",
+      "plaid"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "chambray",
+      "neon green",
+      "denim"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "navy blue",
+      "blazer",
+      "cobalt blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "kurta",
+      "striped",
+      "salmon"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "lavender",
+      "light pink",
+      "white"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "tube top",
+      "red",
+      "beige"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "charcoal",
+      "white",
+      "olive green"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "checked",
+      "navy blue",
+      "striped"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "red",
+      "charcoal",
+      "lavender"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "powder blue",
+      "neon",
+      "mint green"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "black",
+      "mint green",
+      "orange"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "red",
+      "grey",
+      "peach"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "white",
+      "peach",
+      "striped"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "light pink",
+      "cream",
+      "orange"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "denim",
+      "lavender",
+      "white"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "charcoal",
+      "grey",
+      "pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "maroon",
+      "tube top",
+      "kurta"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "olive green",
+      "lavender",
+      "beige"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "cream",
+      "peach",
+      "plaid"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "polo",
+      "pink",
+      "crop top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "white",
+      "mint green",
+      "kurta"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "charcoal",
+      "peach",
+      "cobalt blue"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "teal",
+      "rust",
+      "wine"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "white",
+      "black",
+      "maroon"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "peach",
+      "pastel yellow",
+      "neon"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "graphic tee",
+      "denim"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "denim",
+      "orange",
+      "checked"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "navy blue",
+      "red",
+      "dusty pink"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "charcoal",
+      "striped",
+      "chambray"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "maroon",
+      "denim",
+      "orange"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "mustard",
+      "dusty pink",
+      "orange"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "yellow",
+      "crop top",
+      "dusty pink"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "orange",
+      "crop top",
+      "charcoal"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "neon",
+      "pastel yellow"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "teal",
+      "oversized tee",
+      "pink"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "white",
+      "olive green",
+      "hoodie"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "chambray",
+      "green",
+      "polo"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "red",
+      "teal",
+      "black"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "black",
+      "striped",
+      "powder blue"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "tube top",
+      "brown"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "salmon",
+      "white",
+      "dusty pink"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "yellow",
+      "kurta",
+      "polo"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "olive jeans",
+    "shirt_colors": [
+      "checked",
+      "yellow",
+      "green"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "light pink",
+      "light blue",
+      "green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "floral",
+      "pink",
+      "white"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "charcoal",
+      "graphic tee",
+      "yellow"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "beige",
+      "oversized tee",
+      "mint green"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "brown",
+      "rust",
+      "teal"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "polo",
+      "neon green",
+      "lavender"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "peach",
+      "beige",
+      "maroon"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "charcoal",
+      "graphic tee",
+      "light blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "chambray",
+      "checked",
+      "plaid"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "olive green",
+      "dusty pink",
+      "striped"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "mustard",
+      "dark green",
+      "striped"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "mint green",
+      "sky blue",
+      "striped"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "crop top",
+      "light blue",
+      "maroon"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "olive green",
+      "grey",
+      "maroon"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "hoodie",
+      "oversized tee",
+      "chambray"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "kurta",
+      "black",
+      "salmon"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "neon",
+      "crop top",
+      "cream"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "charcoal",
+      "peach",
+      "cobalt blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "neon",
+      "red",
+      "green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "lavender",
+      "sky blue",
+      "oversized tee"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "olive green",
+      "light pink",
+      "tube top"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "wine",
+      "maroon",
+      "neon green"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "rust",
+      "lavender",
+      "pastel yellow"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "dark green",
+      "white",
+      "red"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "torn jeans",
+    "shirt_colors": [
+      "charcoal",
+      "red",
+      "brown"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "rust",
+      "lavender",
+      "pastel yellow"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "blazer",
+      "graphic tee",
+      "wine"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "salmon",
+      "charcoal",
+      "lavender"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "teal",
+      "crop top",
+      "mint green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "salmon",
+      "brown",
+      "black"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "wine",
+      "plaid",
+      "teal"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "navy blue",
+      "lavender",
+      "plaid"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "yellow",
+      "black",
+      "crop top"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "hoodie",
+      "polo",
+      "red"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "maroon",
+      "wine",
+      "grey"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "cream",
+      "graphic tee",
+      "chambray"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "maroon",
+      "polo",
+      "cobalt blue"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "white",
+      "cream",
+      "red"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "sky blue",
+      "green",
+      "teal"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "white",
+      "brown",
+      "hoodie"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "tube top",
+      "light pink",
+      "light blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "brown",
+      "teal"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "green",
+      "salmon",
+      "maroon"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "black",
+      "oversized tee",
+      "tube top"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "denim",
+      "teal",
+      "olive green"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "floral",
+      "hoodie",
+      "pink"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "striped",
+      "pastel yellow",
+      "salmon"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "mustard",
+      "maroon",
+      "salmon"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "kurta",
+      "dusty pink",
+      "checked"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "navy blue",
+      "brown",
+      "charcoal"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "tube top",
+      "sky blue",
+      "floral"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "orange",
+      "teal",
+      "rust"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "crop top",
+      "graphic tee",
+      "rust"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "light blue",
+      "lavender",
+      "beige"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "crop top",
+      "plaid"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "mint green",
+      "rust",
+      "cream"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "brown",
+      "white",
+      "mint green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "kurta",
+      "graphic tee",
+      "dark green"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "sky blue",
+      "powder blue",
+      "blazer"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "yellow",
+      "teal",
+      "pastel yellow"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "teal",
+      "light pink",
+      "olive green"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "plaid",
+      "chambray",
+      "orange"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "plaid",
+      "denim",
+      "neon green"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "dark green",
+      "denim",
+      "cobalt blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "polo",
+      "charcoal",
+      "crop top"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "navy blue",
+      "lavender"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "brown",
+      "yellow",
+      "kurta"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "tube top",
+      "floral",
+      "blazer"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "lavender",
+      "teal",
+      "rust"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "dark green",
+      "wine"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "black",
+      "yellow",
+      "cream"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "navy blue",
+      "checked",
+      "light blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "neon",
+      "white",
+      "oversized tee"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "powder blue",
+      "light blue"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "white",
+      "maroon",
+      "cream"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "orange",
+      "black"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "kurta",
+      "charcoal"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "light pink",
+      "kurta"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "tube top",
+      "orange",
+      "green"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "rust",
+      "black",
+      "light blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "light blue",
+      "black",
+      "olive green"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "teal",
+      "striped",
+      "light pink"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "white",
+      "powder blue",
+      "hoodie"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "pink",
+      "green",
+      "dark green"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "powder blue",
+      "mint green",
+      "blazer"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "mint green",
+      "tube top"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "floral",
+      "checked",
+      "neon green"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "neon green",
+      "grey",
+      "teal"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "striped",
+      "red",
+      "white"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "powder blue",
+      "navy blue",
+      "mint green"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "mint green",
+      "olive green",
+      "cream"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "salmon",
+      "floral",
+      "hoodie"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "floral",
+      "green",
+      "orange"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "pink",
+      "peach",
+      "white"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "white",
+      "olive green",
+      "oversized tee"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "aqua jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "grey",
+      "dark green"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "red",
+      "orange"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "mint green",
+      "beige",
+      "rust"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "kurta",
+      "white",
+      "neon"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "mustard",
+      "dusty pink",
+      "olive green"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "floral",
+      "mint green",
+      "wine"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "cobalt blue",
+      "red",
+      "grey"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "dark green",
+      "checked",
+      "charcoal"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "chambray",
+      "grey",
+      "hoodie"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "green",
+      "teal",
+      "cobalt blue"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "olive green",
+      "dusty pink",
+      "beige"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "pink",
+      "graphic tee",
+      "red"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "mustard",
+      "dark green",
+      "oversized tee"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "crop top",
+      "beige",
+      "white"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "floral",
+      "light pink",
+      "denim"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "sky blue",
+      "navy blue",
+      "lavender"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "blazer",
+      "charcoal",
+      "pink"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "denim",
+      "olive green"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "neon green",
+      "light pink",
+      "lavender"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "crop top",
+      "grey",
+      "beige"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "dark green",
+      "chambray",
+      "light pink"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "tube top",
+      "orange",
+      "mint green"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "salmon",
+      "brown",
+      "mustard"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "navy blue",
+      "maroon",
+      "lavender"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "dark green",
+      "green",
+      "pink"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "cream",
+      "checked",
+      "mint green"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "graphic tee",
+      "brown"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "floral",
+      "polo",
+      "olive green"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "beige",
+      "plaid",
+      "orange"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "red",
+      "floral",
+      "beige"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "maroon",
+      "teal"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "green",
+      "rust",
+      "grey"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "hoodie",
+      "salmon",
+      "olive green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "checked",
+      "rust",
+      "pink"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "striped",
+      "blazer",
+      "black"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "light pink",
+      "crop top",
+      "dusty pink"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "tan jeans",
+    "shirt_colors": [
+      "peach",
+      "rust",
+      "charcoal"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "polo",
+      "tube top",
+      "cobalt blue"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "teal",
+      "dusty pink",
+      "rust"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "powder blue",
+      "kurta",
+      "hoodie"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "black",
+      "mustard",
+      "kurta"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "mint jeans",
+    "shirt_colors": [
+      "blazer",
+      "yellow",
+      "maroon"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "green",
+      "wine",
+      "white"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "green",
+      "mustard"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "chambray",
+      "pastel yellow",
+      "graphic tee"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "charcoal",
+      "white",
+      "tube top"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "neon",
+      "light pink",
+      "white"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "tube top",
+      "green",
+      "teal"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "chambray",
+      "neon",
+      "red"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "salmon",
+      "plaid",
+      "chambray"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "washed black jeans",
+    "shirt_colors": [
+      "mustard",
+      "black",
+      "striped"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "green",
+      "yellow",
+      "floral"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "brown",
+      "green",
+      "mustard"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "orange",
+      "kurta",
+      "crop top"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "mid-rise jeans",
+    "shirt_colors": [
+      "chambray",
+      "peach",
+      "striped"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "mint green",
+      "cobalt blue",
+      "powder blue"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "light pink",
+      "dark green",
+      "cream"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "floral",
+      "mint green",
+      "blazer"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "dark green",
+      "blazer",
+      "brown"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "pink",
+      "tube top",
+      "neon green"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "olive green",
+      "oversized tee",
+      "dusty pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "blazer",
+      "charcoal",
+      "olive green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "wine",
+      "mint green",
+      "rust"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "light blue jeans",
+    "shirt_colors": [
+      "light blue",
+      "dark green",
+      "orange"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "floral",
+      "plaid",
+      "grey"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "blazer",
+      "red",
+      "teal"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "dusty pink",
+      "cobalt blue",
+      "wine"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "hoodie",
+      "blazer",
+      "peach"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "crop top",
+      "neon green",
+      "maroon"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "tube top",
+      "pastel yellow",
+      "oversized tee"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "relaxed jeans",
+    "shirt_colors": [
+      "cream",
+      "floral",
+      "mustard"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "powder blue",
+      "light blue",
+      "peach"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "teal",
+      "kurta",
+      "floral"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "mustard jeans",
+    "shirt_colors": [
+      "tube top",
+      "brown",
+      "dusty pink"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "distressed jeans",
+    "shirt_colors": [
+      "salmon",
+      "crop top",
+      "pastel yellow"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "brown",
+      "dark green",
+      "pink"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "floral",
+      "neon",
+      "sky blue"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "maroon jeans",
+    "shirt_colors": [
+      "denim",
+      "olive green",
+      "checked"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "blazer",
+      "oversized tee",
+      "dark green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "cropped jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "black",
+      "tube top"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "floral",
+      "red",
+      "checked"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "salmon",
+      "orange",
+      "grey"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "orange",
+      "striped",
+      "pink"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "high-rise jeans",
+    "shirt_colors": [
+      "tube top",
+      "mint green",
+      "teal"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "beige",
+      "white",
+      "dusty pink"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "beige",
+      "pastel yellow",
+      "sky blue"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "grey",
+      "floral"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "tapered jeans",
+    "shirt_colors": [
+      "wine",
+      "denim",
+      "grey"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "polo",
+      "rust",
+      "striped"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "beige",
+      "teal",
+      "kurta"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "mint green",
+      "powder blue",
+      "teal"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "yellow",
+      "dark green",
+      "dusty pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "denim jeans",
+    "shirt_colors": [
+      "lavender",
+      "charcoal",
+      "graphic tee"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "beige",
+      "cream",
+      "sky blue"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "floral",
+      "oversized tee",
+      "beige"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "tube top",
+      "salmon",
+      "chambray"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "dusty pink",
+      "kurta"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "neon green",
+      "pastel yellow",
+      "green"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "low-rise jeans",
+    "shirt_colors": [
+      "wine",
+      "neon green",
+      "graphic tee"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "lavender",
+      "polo",
+      "mint green"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "charcoal",
+      "light pink",
+      "hoodie"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "neon green",
+      "cream",
+      "crop top"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "orange",
+      "lavender",
+      "rust"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "baggy jeans",
+    "shirt_colors": [
+      "maroon",
+      "sky blue",
+      "polo"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "powder blue",
+      "wine",
+      "floral"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "navy jeans",
+    "shirt_colors": [
+      "dark green",
+      "neon",
+      "pastel yellow"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "chambray",
+      "navy blue",
+      "wine"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "skinny jeans",
+    "shirt_colors": [
+      "plaid",
+      "brown",
+      "dusty pink"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "rust",
+      "grey",
+      "mustard"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "light pink",
+      "oversized tee",
+      "olive green"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "olive green",
+      "dark green",
+      "cream"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "straight cut jeans",
+    "shirt_colors": [
+      "denim",
+      "light blue",
+      "neon"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "navy blue",
+      "black"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "white jeans",
+    "shirt_colors": [
+      "grey",
+      "light blue",
+      "rust"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "mint green",
+      "red",
+      "wine"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "checked",
+      "hoodie",
+      "light pink"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "tall fit jeans",
+    "shirt_colors": [
+      "denim",
+      "navy blue",
+      "charcoal"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "bootcut jeans",
+    "shirt_colors": [
+      "red",
+      "cream",
+      "lavender"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "camel jeans",
+    "shirt_colors": [
+      "mustard",
+      "rust",
+      "cobalt blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "neon",
+      "sky blue",
+      "red"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "wine",
+      "rust",
+      "olive green"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "dark blue jeans",
+    "shirt_colors": [
+      "oversized tee",
+      "teal",
+      "plaid"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "burgundy jeans",
+    "shirt_colors": [
+      "rust",
+      "pastel yellow",
+      "black"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "brown",
+      "sky blue",
+      "striped"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "floral",
+      "navy blue",
+      "oversized tee"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "hoodie",
+      "graphic tee",
+      "dusty pink"
+    ],
+    "style": "workwear"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "navy blue",
+      "crop top",
+      "sky blue"
+    ],
+    "style": "college"
+  },
+  {
+    "item": "ripped jeans",
+    "shirt_colors": [
+      "charcoal",
+      "cream",
+      "tube top"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "lavender jeans",
+    "shirt_colors": [
+      "beige",
+      "charcoal",
+      "kurta"
+    ],
+    "style": "summer"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "powder blue",
+      "checked",
+      "red"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "pastel blue jeans",
+    "shirt_colors": [
+      "light pink",
+      "oversized tee",
+      "powder blue"
+    ],
+    "style": "nightwear"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "salmon",
+      "cobalt blue",
+      "lavender"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "black",
+      "striped",
+      "blazer"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "beige",
+      "graphic tee",
+      "wine"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "brown",
+      "mustard",
+      "hoodie"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "pleated jeans",
+    "shirt_colors": [
+      "neon",
+      "dark green",
+      "brown"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "light blue",
+      "neon",
+      "floral"
+    ],
+    "style": "formal"
+  },
+  {
+    "item": "classic fit jeans",
+    "shirt_colors": [
+      "rust",
+      "pastel yellow",
+      "beige"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "neon",
+      "maroon",
+      "light pink"
+    ],
+    "style": "chic"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "salmon",
+      "beige",
+      "light pink"
+    ],
+    "style": "urban"
+  },
+  {
+    "item": "cargo jeans",
+    "shirt_colors": [
+      "powder blue",
+      "plaid",
+      "rust"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "tube top",
+      "lavender",
+      "checked"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "cobalt jeans",
+    "shirt_colors": [
+      "mint green",
+      "denim",
+      "olive green"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "light blue",
+      "checked",
+      "charcoal"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "rust",
+      "brown",
+      "lavender"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "cream jeans",
+    "shirt_colors": [
+      "light blue",
+      "pastel yellow",
+      "navy blue"
+    ],
+    "style": "spring"
+  },
+  {
+    "item": "teal jeans",
+    "shirt_colors": [
+      "maroon",
+      "pink",
+      "powder blue"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "stonewash jeans",
+    "shirt_colors": [
+      "neon",
+      "pastel yellow",
+      "mustard"
+    ],
+    "style": "winter"
+  },
+  {
+    "item": "green jeans",
+    "shirt_colors": [
+      "cream",
+      "chambray",
+      "neon green"
+    ],
+    "style": "vintage"
+  },
+  {
+    "item": "black jeans",
+    "shirt_colors": [
+      "grey",
+      "checked",
+      "white"
+    ],
+    "style": "streetwear"
+  },
+  {
+    "item": "patchwork jeans",
+    "shirt_colors": [
+      "blazer",
+      "sky blue",
+      "black"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "acid wash jeans",
+    "shirt_colors": [
+      "pastel yellow",
+      "striped",
+      "white"
+    ],
+    "style": "boho"
+  },
+  {
+    "item": "brown jeans",
+    "shirt_colors": [
+      "brown",
+      "black",
+      "pink"
+    ],
+    "style": "athleisure"
+  },
+  {
+    "item": "indigo jeans",
+    "shirt_colors": [
+      "red",
+      "floral",
+      "checked"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "stretch jeans",
+    "shirt_colors": [
+      "olive green",
+      "salmon",
+      "cobalt blue"
+    ],
+    "style": "smart casual"
+  },
+  {
+    "item": "midnight blue jeans",
+    "shirt_colors": [
+      "graphic tee",
+      "neon green",
+      "light blue"
+    ],
+    "style": "classic"
+  },
+  {
+    "item": "khaki jeans",
+    "shirt_colors": [
+      "chambray",
+      "peach",
+      "charcoal"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "beige jeans",
+    "shirt_colors": [
+      "olive green",
+      "yellow",
+      "checked"
+    ],
+    "style": "fall"
+  },
+  {
+    "item": "rust jeans",
+    "shirt_colors": [
+      "powder blue",
+      "graphic tee",
+      "dark green"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "jogger jeans",
+    "shirt_colors": [
+      "maroon",
+      "yellow",
+      "cream"
+    ],
+    "style": "semi-formal"
+  },
+  {
+    "item": "faded blue jeans",
+    "shirt_colors": [
+      "peach",
+      "graphic tee",
+      "white"
+    ],
+    "style": "retro"
+  },
+  {
+    "item": "slim fit jeans",
+    "shirt_colors": [
+      "hoodie",
+      "plaid",
+      "teal"
+    ],
+    "style": "casual"
+  },
+  {
+    "item": "charcoal jeans",
+    "shirt_colors": [
+      "red",
+      "dark green",
+      "oversized tee"
+    ],
+    "style": "edgy"
+  },
+  {
+    "item": "grey jeans",
+    "shirt_colors": [
+      "neon green",
+      "chambray",
+      "pink"
+    ],
+    "style": "urban"
+  }
+]
