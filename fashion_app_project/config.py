@@ -1,5 +1,5 @@
 PINECONE_API_KEY = "pcsk_4nFuNi_M1wuGssZwd9TirQ6u8CdkgsbkZ84kQNtuCWBMsrZ33q2jigzpbfqtpARiKzjewp"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 
 
